@@ -1,0 +1,12 @@
+{
+  "name": "eaglebot",
+  "version": "1.0.0",
+  "description": "A personal bot for Prodigy",
+  "main": "app.js",
+  "author": "Vixro",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "quick.db": "^6.3.2"
+  }
+}
